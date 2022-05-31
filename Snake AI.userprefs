@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Restarter.cs">
+    <Files>
+      <File FileName="Assets\TestOfMove.cs" Line="253" Column="20" />
+      <File FileName="Assets\BasiclyTheSameThingButBlander.cs" Line="17" Column="8" />
+      <File FileName="Assets\FoodCode.cs" Line="1" Column="1" />
+      <File FileName="Assets\SnakeAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Restarter.cs" Line="16" Column="1" />
+      <File FileName="Assets\SnakeEyes.cs" Line="582" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\froze\Desktop\Snake AI\Assets\SnakeEyes.cs" line="211" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\TestOfMove.cs" line="61" offsetX="607" offsetY="858" expression="BodPieces" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
