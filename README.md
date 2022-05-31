@@ -13,4 +13,6 @@ All the code i did for the snake AI's "brain" is in the "SnakeEyes.cs" file in t
 I should mention that you are able to manually move the snake using the arrow keys and increase the length of the snake's body by 
 pressing the space bar. I left those testing tools in there out of laziness :)
 
+Most unity gits dont have the library folder included, and this one does not. Just keep that in mind.
+
 -Love, frozennuts
