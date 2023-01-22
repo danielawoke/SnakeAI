@@ -1,18 +1,9 @@
-# SnakeAI
+1/22/2023
 
+Hello there my tangential comerade
 
-Dear person
+Here is a remake of the game snake that I programmed an AI for. The AI is decent, it can make to at least 10 points usually, after that though it starts to scramble a bit. If you want to help out the AI you can use the arround keys, and if you want to remove the AI and just play snake on it's own, I think there's a way to remove the "snake eyes" file from the program/ turn it off before running the game; if you have unity i mean, other wise, im not to sure, sorry. If you want to read what I wrote when I was 18 out of "author intrest," you can take a look at the other read me I made in 2021 out of, although I think it's pretty arogant and not very helpful. I hope you enjoy what I've made for you. 
 
-There isnt a reset button since I was too lazy to make one. You'll have to reopen the application entirely.
-This AI is far from perfect; the snake will frequently turn into its self, or forget to turn entirely for 
-reasons I am completely unsure of. The algorithim for this, however, will now be information for the rest of the world to enjoy.
+Thank you for taking a look.
 
-
-All the code i did for the snake AI's "brain" is in the "SnakeEyes.cs" file in the assets folder. 
-
-I should mention that you are able to manually move the snake using the arrow keys and increase the length of the snake's body by 
-pressing the space bar. I left those testing tools in there out of laziness :)
-
-Most unity gits dont have the library folder included, and this one does not. Just keep that in mind.
-
--Love, frozennuts
+Daniel Awoke
